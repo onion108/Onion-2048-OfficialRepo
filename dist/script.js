@@ -265,12 +265,6 @@ document.getElementById("ldb").onclick = (e) => {
 		document.querySelector("html").innerHTML = "";
 	}
 	if (
-		k_raw.trim().toUpperCase() == "QUZIHAO" ||
-		k_raw.trim().toUpperCase() == "WINDOWSAERO"
-	) {
-		alert("* (Just a feelingless commit robot.)");
-	}
-	if (
 		k_raw.trim().toUpperCase() == "27ONION" ||
 		k_raw.trim().toUpperCase() == "ONION108" ||
 		k_raw.trim().toUpperCase() == "ZHUZHENYU" ||
